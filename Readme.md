@@ -1,2 +1,2 @@
 An App related to remove the Food Wastage.
-A group of four members as a team.
+A group of four members.
